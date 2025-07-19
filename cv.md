@@ -25,8 +25,7 @@
 ---
 
 ## Code Examples
-**Prime Number Check Example -**
-
+**Prime Number Check Example**
 A small JavaScript script that checks if a given number is a prime number (without using functions):
 
 ```javascript
@@ -54,7 +53,6 @@ if (isPrime) {
 
 ## Projects
 **Markdown CV Project**  
-
 Created this CV using Markdown format. 
 Practiced structuring content, using Markdown syntax, and organizing project information clearly. 
 
