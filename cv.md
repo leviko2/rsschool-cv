@@ -1,22 +1,18 @@
 
 # Veranika Zhuk
-
----
-
-## Contact Information
-- **Location:** Poland, Wrocław
-- **Email:** <a href="zhuk.veranika.2001@gmail.com">
-- **GitHub:** [leviko2](https://github.com/leviko2)
-- **LinkedIn:** [https://www.linkedin.com/in/veranika-zhuk](https://www.linkedin.com/in/veranika-zhuk-7a347720b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
----
-
-## About Me
 >I am currently learning to become a frontend developer. 
 >With a background in architecture, I bring a strong eye for design and structure. 
 >
 >I am motivated to grow as a developer, improve my technical skills, and build useful and accessible web interfaces. 
 >I enjoy learning and exploring new tools and technologies.
+
+---
+
+## Contact Information
+- **Location:** Poland, Wrocław
+- **Email:** zhuk.veranika.2001@gmail.com
+- **GitHub:** [leviko2](https://github.com/leviko2)
+- **LinkedIn:** [https://www.linkedin.com/in/veranika-zhuk](https://www.linkedin.com/in/veranika-zhuk-7a347720b/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
@@ -53,10 +49,7 @@ if (isPrime) {
 } else {
   console.log(n + " is NOT a prime number.");
 }
-yaml
-Kopiuj
-Edytuj
-
+```
 ---
 
 ## Projects
