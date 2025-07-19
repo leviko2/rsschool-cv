@@ -78,7 +78,7 @@ Self-taught track + [RSSchool](https://rs.school/) front-end course (2025–pres
 ---
 
 ## Language Skills
-- [x] **Russian:** Native  
-- [x] **Polish:** C1 (advanced)  
-- [x] **English:** B2 (upper-intermediate)  
-- [x] **Belarusian & Ukrainian:** Passive understanding
+[x] **Russian:** Native  
+[x] **Polish:** C1 (advanced)  
+[x] **English:** B2 (upper-intermediate)  
+[x] **Belarusian & Ukrainian:** Passive understanding
