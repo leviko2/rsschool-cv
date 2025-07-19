@@ -54,10 +54,13 @@ if (isPrime) {
 
 ## Projects
 ### Markdown CV Project  
+
 **Description:**  
 Created this CV using Markdown format. 
 Practiced structuring content, using Markdown syntax, and organizing project information clearly. 
+
 ---
+
 ## Education
 **Bachelor’s degree in Architecture**  
 _[University name, country, years — to be filled in]_
@@ -68,7 +71,7 @@ _[University name, country, years — to be filled in]_
 Self-taught track + [RSSchool](https://rs.school/) front-end course (2025–present)  
 - Learning *HTML*, *CSS*, and *JavaScript* fundamentals  
 - Studying *Git* and *GitHub* for version control and collaboration  
-- Practicing problem-solving through JavaScript *challenges on [Codewars]*(https://www.codewars.com/users/leviko2)  
+- Practicing problem-solving through JavaScript *challenges on *[Codewars](https://www.codewars.com/users/leviko2)*
 - Building small projects to *apply learned skills*  
 - Following *structured learning* paths and open-source resources
 - Reading official documentation to *understand best practices*  
