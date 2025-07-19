@@ -25,7 +25,7 @@
 ---
 
 ## Code Examples
-### Prime Number Check Example
+**Prime Number Check Example -**
 
 A small JavaScript script that checks if a given number is a prime number (without using functions):
 
@@ -53,17 +53,17 @@ if (isPrime) {
 ---
 
 ## Projects
-### Markdown CV Project  
+**Markdown CV Project**  
 
-**Description:**  
 Created this CV using Markdown format. 
 Practiced structuring content, using Markdown syntax, and organizing project information clearly. 
 
 ---
 
 ## Education
-**Bachelor’s degree in Architecture**  
-_[University name, country, years — to be filled in]_
+[**Wrocław University of Science and Technology**](https://pwr.edu.pl/en/)
+Bachelor’s degree in Architecture 
+2020-2025
 
 ---
 
