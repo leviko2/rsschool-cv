@@ -12,7 +12,7 @@ I am currently learning to become a frontend developer. With a background in arc
 I am motivated to grow as a developer, improve my technical skills, and build useful and accessible web interfaces, while continuing to apply my 3D modeling background to visual and interactive projects. I enjoy learning and exploring new tools and technologies.
 
 ## Skills
-**Hard skills**\
+**Hard skills:** \
 + **Frontend** (currently learning)**:** HTML, CSS, JavaScript, Git basics, responsive design
 + **Version Control & Dev Tools:** Git, GitHub
 + **3D Modeling & Architecture Software:** Blender, AutoCAD, ArchiCAD, Revit
@@ -20,13 +20,13 @@ I am motivated to grow as a developer, improve my technical skills, and build us
 + **Office & Collaboration:** Microsoft Word, Excel, PowerPoint, Teams
 + **AI Tools:** Claude, ChatGPT, Midjourney
 
-**Soft skills:**\
+**Soft skills:** \
 + Attention to detail 
 + Structured thinking
 + Fast learner
 
 ## Code exsampe
-**Decimal-to-Binary Conversion**\
+**Decimal-to-Binary Conversion** \
 A small JavaScript function that converts a non-negative decimal integer into its binary representation, returned as an integer (e.g. for a task where the binary representation of b must equal the decimal representation of d):
 
 ```
@@ -74,11 +74,11 @@ Self-taught track + RS School fullstack-engineering course\
 * Keeping personal notes and documenting learning progress
 
 ## Languages
-**English language:**\
+**English language:** \
 Level: B2 (upper-intermediate)\
 Language practice: university English coursework; ongoing exposure through English-language educational videos (general topics, not only tech)
 
-**Other languages:**\
+**Other languages:** \
 + Russian: Native
 + Polish: C1 (advanced)
 + Belarusian & Ukrainian: Passive understanding
