@@ -57,7 +57,8 @@ function toBinary(n){
 
 ## Projects experience
 **Markdown CV Project**\
-Created this CV using Markdown format. Skills used: Markdown syntax, structured content organization, technical writing.
+Created this CV using Markdown format.  
+Skills used: Markdown syntax, structured content organization, technical writing.
 
 ## Education
 **Bachelor's degree in Architecture 2020–2025**\
