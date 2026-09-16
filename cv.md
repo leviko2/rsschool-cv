@@ -1,10 +1,10 @@
 # Veranika Zhuk
 
 ## Cotact information
-**Location:** 
-**Email:**
-**GitHub:**
-**LinkedIn:**
+**Location:** Wrocław, Poland\
+**Email:** zhuk.veranika.2001@gmail.com\
+**GitHub:** leviko2\
+**LinkedIn:** Veranika Zhuk
 
 ## About me
 I am currently learning to become a frontend developer. With a background in architecture, I bring a strong eye for design, structure, and spatial thinking — including hands-on experience with 3D modeling and architectural visualization tools.
@@ -13,12 +13,12 @@ I am motivated to grow as a developer, improve my technical skills, and build us
 
 ## Skills
 #### Hard skills
-**Frontend** (currently learning)**:** HTML, CSS, JavaScript, Git basics, responsive design
-**Version Control & Dev Tools:** Git, GitHub
-**3D Modeling & Architecture Software:** Blender, AutoCAD, ArchiCAD, Revit
-**Design Tools:** Figma, Adobe Photoshop, Canva
-**Office & Collaboration:** Microsoft Word, Excel, PowerPoint, Teams
-**AI Tools:** Claude, ChatGPT, Midjourney
++ **Frontend** (currently learning)**:** HTML, CSS, JavaScript, Git basics, responsive design
++ **Version Control & Dev Tools:** Git, GitHub
++ **3D Modeling & Architecture Software:** Blender, AutoCAD, ArchiCAD, Revit
++ **Design Tools:** Figma, Adobe Photoshop, Canva
++ **Office & Collaboration:** Microsoft Word, Excel, PowerPoint, Teams
++ **AI Tools:** Claude, ChatGPT, Midjourney
 
 #### Soft skills
 + Attention to detail 
@@ -26,7 +26,7 @@ I am motivated to grow as a developer, improve my technical skills, and build us
 + Fast learner
 
 ## Code exsampe
-**Decimal-to-Binary Conversion**
+**Decimal-to-Binary Conversion**\
 A small JavaScript function that converts a non-negative decimal integer into its binary representation, returned as an integer (e.g. for a task where the binary representation of b must equal the decimal representation of d):
 
 ```
@@ -56,15 +56,15 @@ function toBinary(n){
 ```
 
 ## Projects experience
-**Markdown CV Project**
+**Markdown CV Project** \
 Created this CV using Markdown format. Skills used: Markdown syntax, structured content organization, technical writing.
 
 ## Education
-**Bachelor's degree in Architecture 2020–2025**
+**Bachelor's degree in Architecture 2020–2025**\
 Wrocław University of Science and Technology
 
-**Frontend Development (2025–present)**
-Self-taught track + RS School fullstack-engineering course
+**Frontend Development (2025–present)**\
+Self-taught track + RS School fullstack-engineering course\
 * Learning HTML, CSS, and JavaScript fundamentals
 * Studying Git and GitHub for version control and collaboration
 * Practicing problem-solving through JavaScript challenges on Codewars
@@ -75,7 +75,7 @@ Self-taught track + RS School fullstack-engineering course
 
 ## Languages
 #### English language
-Level: B2 (upper-intermediate)
+Level: B2 (upper-intermediate)\
 Language practice: university English coursework; ongoing exposure through English-language educational videos (general topics, not only tech)
 
 #### Other languages
