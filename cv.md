@@ -9,7 +9,7 @@
 >[!IMPORTANT]
 >I am currently learning to become a frontend developer. With a background in architecture, I bring a strong eye for design, structure, and spatial thinking — including hands-on experience with 3D modeling and architectural visualization tools.
 
-I am motivated to grow as a developer, improve my technical skills, and build useful and accessible web interfaces, while continuing to apply my 3D modeling background to visual and interactive projects. I enjoy learning and exploring new tools and technologies.
+>I am motivated to grow as a developer, improve my technical skills, and build useful and accessible web interfaces, while continuing to apply my 3D modeling background to visual and interactive projects. I enjoy learning and exploring new tools and technologies.
 
 ## Skills
 **Hard skills:**  
