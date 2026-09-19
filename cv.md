@@ -7,7 +7,7 @@
 **LinkedIn:** Veranika Zhuk
 
 >[!IMPORTANT]
->I am currently learning to become a frontend developer. With a background in architecture, I bring a strong eye for design, structure, and spatial thinking — including hands-on experience with 3D modeling and architectural visualization tools. </br>I am motivated to grow as a developer, improve my technical skills, and build useful and accessible web interfaces, while continuing to apply my 3D modeling background to visual and interactive projects. I enjoy learning and exploring new tools and technologies.
+>I am currently learning to become a frontend developer. With a background in architecture, I bring a strong eye for design, structure, and spatial thinking — including hands-on experience with 3D modeling and architectural visualization tools. </br></br> I am motivated to grow as a developer, improve my technical skills, and build useful and accessible web interfaces, while continuing to apply my 3D modeling background to visual and interactive projects. I enjoy learning and exploring new tools and technologies.
 
 ## Skills
 **Hard skills:**  
@@ -30,23 +30,23 @@ A small JavaScript function that converts a non-negative decimal integer into it
 ```ruby
 function toBinary(n){
   
-  //return 0 when n=0
+  /return 0 when n=0/
   if (n === 0) {
     return (0);
   }
   
   let reverseBinary = '';
   
-  //when n > 0 --> get the inverted number using remainder method of division by 2
+  /when n > 0 --> get the inverted number using remainder method of division by 2/
   while (n > 0) {
     reverseBinary += n % 2;
     n = Math.floor(n / 2);
   }
   
-  //convert string to an array, reverse the order of array elements, join array elements to a string
+  /convert string to an array, reverse the order of array elements, join array elements to a string/
   const binaryString = reverseBinary.split('').reverse().join('');
   
-  //make a number out of a string
+  /make a number out of a string/
   const binary = parseInt(binaryString);
   
   return binary;
