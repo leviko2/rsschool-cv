@@ -3,10 +3,10 @@
 <img src="./Cat.jpg" alt="Not my cat" width="300">
 
 ## Cotact information
-**Location:** Wrocław, Poland\
+**Location:** [Wrocław](https://www.google.com/maps/place/Wrocław/@51.1262486,16.8269717,11z/data=!3m1!4b1!4m6!3m5!1s0x470fe9c2d4b58abf:0xb70956aec205e0f5!8m2!3d51.1092948!4d17.0386019!16zL20vMDg0NWI?authuser=1&entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D), Poland\
 **Email:** zhuk.veranika.2001@gmail.com\
-**GitHub:** leviko2\
-**LinkedIn:** Veranika Zhuk
+**GitHub:** [leviko2](https://github.com/leviko2)\
+**LinkedIn:** V[eranika Zhuk](https://www.linkedin.com/in/veranika-zhuk-7a347720b/)
 
 >[!IMPORTANT]
 >I am currently learning to become a frontend developer. With a background in architecture, I bring a strong eye for design, structure, and spatial thinking — including hands-on experience with 3D modeling and architectural visualization tools. </br></br> I am motivated to grow as a developer, improve my technical skills, and build useful and accessible web interfaces, while continuing to apply my 3D modeling background to visual and interactive projects. I enjoy learning and exploring new tools and technologies.
@@ -62,10 +62,10 @@ Skills used: Markdown syntax, structured content organization, technical writing
 
 ## Education
 **Bachelor's degree in Architecture 2020–2025**\
-Wrocław University of Science and Technology
+[Wrocław University of Science and Technology](https://pwr.edu.pl/en/)
 
 **Frontend Development (2025–present):**\
-Self-taught track + RS School fullstack-engineering course
+Self-taught track + [RS School](https://rs.school) fullstack-engineering course
 * Learning HTML, CSS, and JavaScript fundamentals
 * Studying Git and GitHub for version control and collaboration
 * Practicing problem-solving through JavaScript challenges on Codewars
