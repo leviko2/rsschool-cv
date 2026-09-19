@@ -1,4 +1,5 @@
 # Veranika Zhuk
+![Cat picture](./Cat.jpg =500x500 "Not my cat")
 
 ## Cotact information
 **Location:** Wrocław, Poland\
