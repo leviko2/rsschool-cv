@@ -1,5 +1,6 @@
 # Veranika Zhuk
-![Cat picture](./Cat.jpg "Not my cat")
+<!-- ![Cat picture](./Cat.jpg "Not my cat") -->
+<img src="./Cat.jpg" alt="Not my cat" width="300">
 
 ## Cotact information
 **Location:** Wrocław, Poland\
