@@ -6,8 +6,8 @@
 **GitHub:** leviko2\
 **LinkedIn:** Veranika Zhuk
 
-## About me
-I am currently learning to become a frontend developer. With a background in architecture, I bring a strong eye for design, structure, and spatial thinking — including hands-on experience with 3D modeling and architectural visualization tools.
+>[!IMPORTANT]
+>I am currently learning to become a frontend developer. With a background in architecture, I bring a strong eye for design, structure, and spatial thinking — including hands-on experience with 3D modeling and architectural visualization tools.
 
 I am motivated to grow as a developer, improve my technical skills, and build useful and accessible web interfaces, while continuing to apply my 3D modeling background to visual and interactive projects. I enjoy learning and exploring new tools and technologies.
 
@@ -29,7 +29,7 @@ I am motivated to grow as a developer, improve my technical skills, and build us
 **Decimal-to-Binary Conversion** \
 A small JavaScript function that converts a non-negative decimal integer into its binary representation, returned as an integer (e.g. for a task where the binary representation of b must equal the decimal representation of d):
 
-```
+```ruby
 function toBinary(n){
   
   //return 0 when n=0
